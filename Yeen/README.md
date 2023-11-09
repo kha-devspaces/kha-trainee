@@ -1,2 +1,4 @@
 # My Profile
-Name:
+FullName:
+LastName:
+Description:

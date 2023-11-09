@@ -1,2 +1,3 @@
 # My Profile
-FullName:
+FullName: Nantaphop Thankeattiwutti
+NickName: Att

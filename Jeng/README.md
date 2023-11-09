@@ -1,2 +1,2 @@
 # My Profile
-FullName:
+NickName:

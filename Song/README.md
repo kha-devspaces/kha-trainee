@@ -1,2 +1,3 @@
 # My Profile
-Name:
+FullName: jakdow wanathong
+NickName: song

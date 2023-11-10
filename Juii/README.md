@@ -1,2 +1,3 @@
 # My Profile
-NickName: Juii Hello world
+NickName: Wasu Lueangsadudee Juii Hello world
+Memo: apex legends pa kub

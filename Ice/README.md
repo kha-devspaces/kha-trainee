@@ -1,2 +1,3 @@
 # My Profile
-FullName:
+FullName: Rangsima Nawaphon
+Memo: I'm ice

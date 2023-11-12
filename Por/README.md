@@ -1,3 +1,3 @@
 # My Profile
-Name: poy not por .ppp
-memo:
+Name: poy not por 
+memo: sibpakorn or poy

@@ -1,3 +1,3 @@
 # kha-trainee
 repo for trainee
-Test Test
+Test Test Memo

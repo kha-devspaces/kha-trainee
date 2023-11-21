@@ -1,3 +1,3 @@
 # My Profile
 Name: Bas
-์Memo: hello world
+์Memo: hello world memo
